@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)  -legacy-libc  $(COMPARISON_BUILD)  -O0 -msmart-io=1 -Wall -msfr-warn=off    -mdfp="${DFP_DIR}/xc16"/Users/greve/Documents/Dokumenter/MPLABXProjects/62547 - Embedded C /PROJECT/Z_StartOver/Ny med NRF VIRKER/BasestationV4_FINAL.X/mcc_generated_files/traps.c
